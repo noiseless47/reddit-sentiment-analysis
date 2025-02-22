@@ -1,0 +1,9 @@
+pandas
+streamlit
+seaborn
+transformers
+praw
+python-dotenv
+nltk
+rake-nltk
+wordcloud 
