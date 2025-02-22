@@ -7,3 +7,5 @@ python-dotenv
 nltk
 rake-nltk
 wordcloud 
+tensorflow>=2.0
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
