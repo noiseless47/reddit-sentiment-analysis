@@ -6,6 +6,8 @@ praw
 python-dotenv
 nltk
 rake-nltk
-wordcloud 
+wordcloud
 tensorflow>=2.0
-torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+torch
+torchvision
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
